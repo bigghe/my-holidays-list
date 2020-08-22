@@ -7,6 +7,11 @@ AWS
 [](https://aws.amazon.com/blogs/aws/aws-well-architected-framework-updated-white-papers-tools-and-best-practices/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29)
 
 
+AWS Fargate
+[](https://www.youtube.com/watch?reload=9&v=xBgiArJHv7E)
+[](https://www.youtube.com/watch?reload=9&reload=9&v=IEvLkwdFgnU)
+
+
 AWS Guide from Linux Academy
 [](https://linuxacademy.com/guide/21655-aws-network-load-balancer-basics/)
 [](https://linuxacademy.com/guide/19823-how-to-setup-a-loadbalanced-elasticsearch-cluster-on-aws/)
@@ -16,12 +21,11 @@ AWS Guide from Linux Academy
 [](https://linuxacademy.com/guide/13491-introduction-to-nat/)
 
 
-Sysadmin-Devops
-[](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
-[](https://www.simplethread.com/serverless-im-a-big-kid-now/)
-[](https://www.redhat.com/sysadmin/du-command-options)
-[](https://www.redhat.com/sysadmin/administering-remote-systems)
-[](https://www.redhat.com/sysadmin/arp-versus-ip)
+AWS Network
+[](https://www.thedevcoach.co.uk/engineers-guide-aws-networking-fundamentals/)
+[](https://aws.amazon.com/blogs/apn/aws-networking-for-developers/)
+[](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html#load-balancer-scheme)
+
 
 Docker
 [](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
@@ -30,6 +34,10 @@ Docker
 [](https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html#containers-deployment)
 [](https://www.baeldung.com/spring-cloud-kubernetes)
 [](https://www.youtube.com/watch?v=bkC1spGOI7Y)
+
+
+History
+[](https://briancallahan.net/blog/20200808.html)
 
 
 Kubernetes
@@ -60,30 +68,11 @@ Kubernetes
 [](https://developers.redhat.com/devnation/tech-talks/10-kubernetes-tools)
 
 
-AWS Fargate
-[](https://www.youtube.com/watch?reload=9&v=xBgiArJHv7E)
-[](https://www.youtube.com/watch?reload=9&reload=9&v=IEvLkwdFgnU)
-
-
 Linus video
 [](https://www.youtube.com/watch?v=0pHImHVrI2I)
 [](https://www.youtube.com/watch?v=bTWv-l0JhAc)
 [](https://www.youtube.com/watch?v=H8Gd9t7FQqI)
 [](https://www.youtube.com/watch?v=7XTHdcmjenI)
-
-AWS Network
-[](https://www.thedevcoach.co.uk/engineers-guide-aws-networking-fundamentals/)
-[](https://aws.amazon.com/blogs/apn/aws-networking-for-developers/#:~:text=AWS%20networking%20environment-,AWS%20networking%20concepts,virtual%20network%20that%20you%20define.)
-[](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html#load-balancer-scheme)
-
-
-History
-[](https://briancallahan.net/blog/20200808.html)
-
-
-Network
-[](https://www.youtube.com/watch?v=9nCIjLlLVzY)
-[](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 
 
 Linux related
@@ -94,6 +83,20 @@ Linux related
 [](https://fedoramagazine.org/automating-network-devices-with-ansible/)
 
 
+Network
+[](https://www.youtube.com/watch?v=9nCIjLlLVzY)
+[](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+
+
 Open source
 [](https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/)
 [](https://community.kde.org/Get_Involved/development#Set_up_your_development_environment)
+
+
+Sysadmin-Devops
+[](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
+[](https://www.simplethread.com/serverless-im-a-big-kid-now/)
+[](https://www.redhat.com/sysadmin/du-command-options)
+[](https://www.redhat.com/sysadmin/administering-remote-systems)
+[](https://www.redhat.com/sysadmin/arp-versus-ip)
+
