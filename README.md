@@ -2,17 +2,17 @@
 A collection of links on different topic that I want to consume during my summer 2020 holidays. 
 
 
-AWS
+## AWS
 [AWS Tagging Best Practices Guide: Part 1 of 3](https://www.cloudforecast.io/blog/aws-tagging-best-practices/)
 [AWS Well-Architected Framework – Updated White Papers, Tools, and Best Practices](https://aws.amazon.com/blogs/aws/aws-well-architected-framework-updated-white-papers-tools-and-best-practices/)
 
 
-AWS Fargate
+## AWS Fargate
 [Deep Dive into AWS Fargate](https://www.youtube.com/watch?reload=9&v=xBgiArJHv7E)
 [Deep Dive into AWS Fargate](https://www.youtube.com/watch?reload=9&reload=9&v=IEvLkwdFgnU)
 
 
-AWS Guide from Linux Academy
+## AWS Guide from Linux Academy
 [AWS Network load balancer basics](https://linuxacademy.com/guide/21655-aws-network-load-balancer-basics/)
 [How to setup a loadbalanced elasticsearch cluster on AWS](https://linuxacademy.com/guide/19823-how-to-setup-a-loadbalanced-elasticsearch-cluster-on-aws/)
 [Automating Terraform with Jenkins and AWS Codecommit](https://linuxacademy.com/guide/18753-automating-terraform-with-jenkins-and-aws-codecommit/)
@@ -21,13 +21,13 @@ AWS Guide from Linux Academy
 [Introduction to NAT](https://linuxacademy.com/guide/13491-introduction-to-nat/)
 
 
-AWS Network
+## AWS Network
 [AWS Networking fundamentals](https://www.thedevcoach.co.uk/engineers-guide-aws-networking-fundamentals/)
 [AWS Networking for developers](https://aws.amazon.com/blogs/apn/aws-networking-for-developers/)
 [How elastic load balancing works](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html#load-balancer-scheme)
 
 
-Docker
+## Docker
 [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 [Docker tips and tricks](https://saturnism.me/talk/docker-tips-and-tricks/)
 [Build containers faster with Jib by Google](https://speakerdeck.com/coollog/build-containers-faster-with-jib-a-google-image-build-tool-for-java-applications?slide=4)
@@ -36,11 +36,11 @@ Docker
 [Speedy build for your java application images with JIB! by Mohammed Aboullaite](https://www.youtube.com/watch?v=bkC1spGOI7Y)
 
 
-History
+## History
 [Where do argc and argv come from?](https://briancallahan.net/blog/20200808.html)
 [Oral History of Brian Kernighan](https://www.youtube.com/watch?v=bTWv-l0JhAc)
 
-Kubernetes
+## Kubernetes
 [Explaining Kubernetes in 10 minutes using an analogy](https://opensource.com/article/20/7/kubernetes-analogy)
 [Kubernetes Concepts Explained in 9 minutes!](https://www.youtube.com/watch?reload=9&reload=9&v=QJ4fODH6DXI&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5&index=3)
 [Exposing GKE applications through Ingress and Services](https://cloudblog.withgoogle.com/products/containers-kubernetes/exposing-services-on-gke/amp/)
@@ -68,14 +68,14 @@ Kubernetes
 [10 awesome Kubernetes tools every user should know](https://developers.redhat.com/devnation/tech-talks/10-kubernetes-tools)
 
 
-Linus video
+## Linus video
 [An interview with young Linus Torvalds about Linux (1998)](https://www.youtube.com/watch?v=HTFbLyUQSbw)
 [Arguing with Linus Torvalds - Steven Rostedt](https://www.youtube.com/watch?v=0pHImHVrI2I)
 [Keynote: Linus Torvalds in conversation with Dirk Hohndel](https://www.youtube.com/watch?v=H8Gd9t7FQqI)
 [What the Tech Industry Has Learned from Linus Torvalds: Jim Zemlin at TEDxConcordiaUPortland](https://www.youtube.com/watch?v=7XTHdcmjenI)
 
 
-Linux related
+## Linux related
 [BTRFS Guide | The Best Desktop File System](https://www.youtube.com/watch?v=J2QP4onqJKI)
 [Stopping phishing campaigns with bash](https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html)
 [How io_uring and eBPF Will Revolutionize Programming in Linux](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
@@ -83,16 +83,16 @@ Linux related
 [Automating network devices with Ansible](https://fedoramagazine.org/automating-network-devices-with-ansible/)
 
 
-Network
+## Network
 [DNS in Linux for the Absolute Beginners!](https://www.youtube.com/watch?v=9nCIjLlLVzY)
 [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 
 
-Open source
+## Open source
 [Code quality tools at Mozilla](https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/)
 
 
-Sysadmin-Devops
+## Sysadmin-Devops
 [2nd edition of Ansible devops](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops)
 [Serverless I'm a big kid now](https://www.simplethread.com/serverless-im-a-big-kid-now/)
 ['du' command options](https://www.redhat.com/sysadmin/du-command-options)
