@@ -4,7 +4,7 @@ AWS
 [](https://aws.amazon.com/blogs/aws/aws-well-architected-framework-updated-white-papers-tools-and-best-practices/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29)
 
 
-AWS
+AWS Guide from Linux Academy
 [](https://linuxacademy.com/guide/21655-aws-network-load-balancer-basics/)
 [](https://linuxacademy.com/guide/19823-how-to-setup-a-loadbalanced-elasticsearch-cluster-on-aws/)
 [](https://linuxacademy.com/guide/18753-automating-terraform-with-jenkins-and-aws-codecommit/)
@@ -57,18 +57,18 @@ Kubernetes
 [](https://developers.redhat.com/devnation/tech-talks/10-kubernetes-tools)
 
 
-AWS
+AWS Fargate
 [](https://www.youtube.com/watch?reload=9&v=xBgiArJHv7E)
 [](https://www.youtube.com/watch?reload=9&reload=9&v=IEvLkwdFgnU)
 
 
-Linus
+Linus video
 [](https://www.youtube.com/watch?v=0pHImHVrI2I)
 [](https://www.youtube.com/watch?v=bTWv-l0JhAc)
 [](https://www.youtube.com/watch?v=H8Gd9t7FQqI)
 [](https://www.youtube.com/watch?v=7XTHdcmjenI)
 
-AWS
+AWS Network
 [](https://www.thedevcoach.co.uk/engineers-guide-aws-networking-fundamentals/)
 [](https://aws.amazon.com/blogs/apn/aws-networking-for-developers/#:~:text=AWS%20networking%20environment-,AWS%20networking%20concepts,virtual%20network%20that%20you%20define.)
 [](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html#load-balancer-scheme)
@@ -83,7 +83,7 @@ Network
 [](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 
 
-Linux
+Linux related
 [](https://www.youtube.com/watch?v=J2QP4onqJKI)
 [](https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html)
 [](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
@@ -91,6 +91,6 @@ Linux
 [](https://fedoramagazine.org/automating-network-devices-with-ansible/)
 
 
-Open
+Open source
 [](https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/)
 [](https://community.kde.org/Get_Involved/development#Set_up_your_development_environment)
